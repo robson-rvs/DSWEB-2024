@@ -58,3 +58,13 @@ footer p {
 nav a:hover {
     color: lime;
 }
+
+footer img {
+    width: 60px;
+    height: 60px;
+}
+
+.unemat logo {
+    width: 60px;
+    height: 100px;
+}
